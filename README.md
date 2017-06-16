@@ -1,4 +1,5 @@
 mbentley/cowsay
+ololo
 ===============
 
 docker image for cowsay (with moby dock)
