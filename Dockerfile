@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 
 RUN apt-get update && apt-get install -y cowsay
 COPY docker.cow /usr/share/cowsay/cows/docker.cow
